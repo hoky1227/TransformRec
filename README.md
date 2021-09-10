@@ -1,2 +1,2 @@
-# Transformer_based-recommendation
-Using Transformers for recommendation with NLP for making dependency by product name.
+# TransformRec
+Using Transformer and Word2Vec for recommendation with NLP for making dependency by product name.
